@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0053b0e-a7f9-4488-86ea-c306b1b6145f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l8nsYAeY7fSJF0yaL3dcEwecq0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-svelte-project/src/Store" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Dev\ECV_FE_2\my-svelte-project\src\Store" />
+      <recent name="B:\Dev\ECV_FE_2\my-svelte-project\src\components" />
+      <recent name="B:\Dev\ECV_FE_2\my-svelte-project\src\parts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0053b0e-a7f9-4488-86ea-c306b1b6145f" name="Default Changelist" comment="" />
+      <created>1606987792812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606987792812</updated>
+      <workItem from="1606987793842" duration="12141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606988329832">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="715" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606988329832" />
+    <state x="1920" y="0" width="1424" height="724" key="dock-window-1" timestamp="1606994113757">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1920" y="0" width="1424" height="724" key="dock-window-1/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606994113757" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1606987825362">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606987825362" />
+  </component>
+</project>
